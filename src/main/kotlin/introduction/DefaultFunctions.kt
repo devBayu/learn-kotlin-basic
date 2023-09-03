@@ -24,5 +24,6 @@ fun multiply(x: Int, y: Int) = x * y
 
 /*
     1. Function dapat ditulis secara inline function
+    2. :TypeData artinya function tersebut memerlukan return type data yang ada cth(fun sum(x: Int, y: Int) : Int) artinya fun sum tersebut harus retur Int
 * */
 
